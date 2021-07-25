@@ -1,2 +1,2 @@
-# k-nearest-neighbors-KNN-
+# k-nearest-neighbors-KNN-(Fruit cayegory predction)
 Minor Project
